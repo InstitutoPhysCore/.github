@@ -1,8 +1,8 @@
 <img src="https://physcore.aquanovember.eu.org/images/astronauta.webp" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<h4 align="left"> 
   <strong>Instituto PhysCore</strong>: Pela democratização da ciência em um país com um precário incentivo a ela.
-</p>
+</h4>
 
 <p align="left">
   👋 Seja bem-vindo ao nosso perfil oficial no GitHub!
